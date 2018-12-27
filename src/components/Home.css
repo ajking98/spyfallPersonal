@@ -1,0 +1,26 @@
+.Home {
+  text-align: center;
+}
+.container {
+  text-align: center;
+}
+.col {
+  font-size: 4.0rem;
+  letter-spacing: -.08rem;
+  font-weight: 300;
+  display: block;
+  line-height: 1.35;
+  font-family:  'Mountains of Christmas', cursive;
+}
+.title {
+  margin: auto;
+  margin-bottom: 0px;
+  margin-top: 50px;
+}
+.image {
+  height: 70%;
+  width: 80%;
+}
+#imageBox {
+  margin-top: 0px;
+}
